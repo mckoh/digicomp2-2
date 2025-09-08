@@ -1,0 +1,822 @@
+[
+    {
+        "id": "1",
+        "name": "Information and Data Literacy",
+        "competences": [
+            {
+                "id": "1.1",
+                "name": "Browsing, Searching and Filtering Data, Information and Digital Content",
+                "dimensions": [
+                    {
+                        "id": "1.1.1",
+                        "level": "Foundation",
+                        "skills": [
+                            "At basic level and with guidance, I can identify my information needs, find data, information and content through a simple search in digital environments.",
+                            "At basic level and with guidance, I can find how to access these data, information and content and navigate between them.",
+                            "At basic level and with guidance, I can identify simple personal search strategies."
+                        ]
+                    },{
+                        "id": "1.1.2",
+                        "level": "Foundation",
+                        "skills": [
+                            "At basic level and with autonomy and appropriate guidance where needed, I can identify my information needs.",
+                            "At basic level and with autonomy and appropriate guidance where needed, I can find data, information and content through a simple search in digital environments.",
+                            "At basic level and with autonomy and appropriate guidance where needed, I can find how to access these data, information and content and navigate between them.",
+                            "At basic level and with autonomy and appropriate guidance where needed, I can identify simple personal search strategies."
+                        ]
+                    },{
+                        "id": "1.1.3",
+                        "level": "Intermediate",
+                        "skills": [
+                            "On my own and solving straightforward problems, I can explain my information needs.",
+                            "On my own and solving straightforward problems, I can perform well-defined and routine searches to find data, information and content in digital environments.",
+                            "On my own and solving straightforward problems, I can explain how to access them and navigate between them.",
+                            "On my own and solving straightforward problems, I can explain well-defined and routine personal search strategies."
+                        ]
+                    },{
+                        "id": "1.1.4",
+                        "level": "Intermediate",
+                        "skills": [
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can illustrate information needs.",
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can organise the searches of data, information and content in digital environments.",
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can describe how to access these data, information and content, and navigate between them.",
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can organise personal search strategies."
+                        ]
+                    },{
+                        "id": "1.1.5",
+                        "level": "Advanced",
+                        "skills": [
+                            "As well as guiding others, I can respond to information needs.",
+                            "As well as guiding others, I can apply searches to obtain data, information and content in digital environments.",
+                            "As well as guiding others, I can show how to access these data, information and content and navigate between them.",
+                            "As well as guiding others, I can propose personal search strategies."
+                        ]
+                    },{
+                        "id": "1.1.6",
+                        "level": "Advanced",
+                        "skills": [
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can assess information needs.",
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can adapt my searching strategy to find the most appropriate data, information and content in digital environments.",
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can explain how to access these most appropriate data, information and content and navigate among them.",
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can vary personal search strategies."
+                        ]
+                    },{
+                        "id": "1.1.7",
+                        "level": "Highly Specialised",
+                        "skills": [
+                            "At highly specialised level, I can create solutions to complex problems with limited definition that are related to browsing, searching and filtering of data, information and digital content.",
+                            "At highly specialised level, I can integrate my knowledge to contribute to professional practice and knowledge and guide others in browsing, searching and filtering data, information and digital content."
+                        ]
+                    },{
+                        "id": "1.1.8",
+                        "level": "Highly Specialised",
+                        "skills": [
+                            "At the most advanced and specialised level, I can create solutions to solve complex problems with many interacting factors that are related to browsing, searching and filtering data, information and digital content.",
+                            "At the most advanced and specialised level, I can propose new ideas and processes to the field."
+                        ]
+                    }
+                ]
+            },{
+                "id": "1.2",
+                "name": "Evaluating Data, Information and Digital Content",
+                "dimensions": [
+                    {
+                        "id": "1.2.1",
+                        "level": "Foundation",
+                        "skills": [
+                            "At basic level and with guidance, I can detect the credibility and reliability of common sources of data, information and their digital content."
+                        ]
+                    },{
+                        "id": "1.2.2",
+                        "level": "Foundation",
+                        "skills": [
+                            "At basic level and with autonomy and appropriate guidance where needed, I can detect the credibility and reliability of common sources of data, information and their digital content."
+                        ]
+                    },{
+                        "id": "1.2.3",
+                        "level": "Intermediate",
+                        "skills": [
+                            "On my own and solving straightforward problems, I can perform the analysis, comparison and evaluation of the credibility and reliability of well-defined sources of data, information and digital content.",
+                            "On my own and solving straightforward problems, I can perform the analysis, interpretation and evaluation of well-defined data, information and digital content."
+                        ]
+                    },{
+                        "id": "1.2.4",
+                        "level": "Intermediate",
+                        "skills": [
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can perform the analysis, comparison and evaluation of sources of data, information and digital content.",
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can perform the analysis, interpretation and evaluation of data, information and digital content."
+                        ]
+                    },{
+                        "id": "1.2.5",
+                        "level": "Advanced",
+                        "skills": [
+                            "As well as guiding others, I can carry out an evaluation of the credibility and reliability of different sources of data, information and digital content.",
+                            "As well as guiding others, I can carry out an evaluation of different data, information and digital content."
+                        ]
+                    },{
+                        "id": "1.2.6",
+                        "level": "Advanced",
+                        "skills": [
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can critically assess the credibility and reliability of sources of data, information and digital content.",
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can critically assess data, information and digital content."
+                        ]
+                    },{
+                        "id": "1.2.7",
+                        "level": "Highly Specialised",
+                        "skills": [
+                            "At highly specialised level, I can create solutions to complex problems with limited definition that are related to analysing and evaluating credible and reliable sources of data, information and content in digital environments.",
+                            "At highly specialised level, I can integrate my knowledge to contribute to professional practices and knowledge and to guide others in the analysis and evaluation of the credibility and reliability of data, information and digital content and their sources."
+                        ]
+                    },{
+                        "id": "1.2.8",
+                        "level": "Highly Specialised",
+                        "skills": [
+                            "At the most advanced and specialised level, I can create solutions to solve complex problems with many interacting.",
+                            "At the most advanced and specialised level, I can factors that are related to analysing and evaluating credible and reliable.",
+                            "At the most advanced and specialised level, I can sources of data, information and content in digital environments.",
+                            "At the most advanced and specialised level, I can propose new ideas and processes to the field."
+                        ]
+                    }
+                ]
+            },{
+                "id": "1.3",
+                "name": "Managing Data, Information and Digital Content",
+                "dimensions": [
+                    {
+                        "id": "1.3.1",
+                        "level": "",
+                        "skills": [
+                            "At basic level and with guidance, I can identify how to organise, store and retrieve data, information and content in a simple way in digital environments.",
+                            "At basic level and with guidance, I can recognise where to organise them in a simple way in a structured environment."
+                        ]
+                    },{
+                        "id": "1.3.2",
+                        "level": "Foundation",
+                        "skills": [
+                            "At basic level and with autonomy and appropriate guidance where needed, I can identify how to organise, store and retrieve data, information and content in a simple way in digital environments.",
+                            "At basic level and with autonomy and appropriate guidance where needed, I can recognise where to organise them in a simple way in a structured environment."
+                        ]
+                    },{
+                        "id": "1.3.3",
+                        "level": "Intermediate",
+                        "skills": [
+                            "On my own and solving straightforward problems, I can select data, information and content in order to organise, store and retrieve them in a routine way in digital environments.",
+                            "On my own and solving straightforward problems, I can organise them in a routine way in a structured environment."
+                        ]
+                    },{
+                        "id": "1.3.4",
+                        "level": "Intermediate",
+                        "skills": [
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can organise information, data and content to be easily stored and retrieved.",
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can organise information, data and content in a structured environment."
+                        ]
+                    },{
+                        "id": "1.3.5",
+                        "level": "Advanced",
+                        "skills": [
+                            "As well as guiding others, I can manipulate information, data and content for their easier organisation, storage and retrieval.",
+                            "As well as guiding others, I can carry out their organisation and processing in a structured environment."
+                        ]
+                    },{
+                        "id": "1.3.6",
+                        "level": "Advanced",
+                        "skills": [
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can adapt the management of information, data and content for the most appropriate easy retrieval and storage.",
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can adapt them to be organised and processed in the most appropriate structured environment."
+                        ]
+                    },{
+                        "id": "1.3.7",
+                        "level": "Highly Specialised",
+                        "skills": [
+                            "At highly specialised level, I can create solutions to complex problems with limited definition that are related to managing data, information, and content for their organisation, storage and retrieval in a structured digital environment.",
+                            "At highly specialised level, I can integrate my knowledge to contribute to professional practices and knowledge and to guide others in managing data, information and digital content in a structured digital environment."
+                        ]
+                    },{
+                        "id": "1.3.8",
+                        "level": "Highly Specialised",
+                        "skills": [
+                            "At the most advanced and specialised level, I can create solutions to solve complex problems with many interacting factors that are related to managing data, information, and content for their organisation, storage and retrieval in a structured digital environment.",
+                            "At the most advanced and specialised level, I can propose new ideas and processes to the field."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },{
+        "id": "2",
+        "name": "Communication and Collaboration",
+        "competences": [
+            {
+                "id": "2.1",
+                "name": "Interacting through digital Technologies",
+                "dimensions": [
+                    {
+                        "id": "2.1.1",
+                        "level": "Foundation",
+                        "skills": [
+                            "At basic level and with guidance, I can select simple digital technologies to interact.",
+                            "At basic level and with guidance, I can identify appropriate simple communication means for a given context."
+                        ]
+                    },{
+                        "id": "2.1.2",
+                        "level": "Foundation",
+                        "skills": [
+                            "At basic level and with autonomy and appropriate guidance where needed, I can select simple digital technologies to interact.",
+                            "At basic level and with autonomy and appropriate guidance where needed, I can identify appropriate simple communication means for a given context."
+                        ]
+                    },{
+                        "id": "2.1.3",
+                        "level": "Intermediate",
+                        "skills": [
+                            "On my own and solving straightforward problems, I can perform well-defined and routine interactions with digital technologies.",
+                            "On my own and solving straightforward problems, I can select well-defined and routine appropriate digital communication means for a given context."
+                        ]
+                    },{
+                        "id": "2.1.4",
+                        "level": "Intermediate",
+                        "skills": [
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can select a variety of digital technologies to interact.",
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can select a variety of appropriate digital communication means for a given context."
+                        ]
+                    },{
+                        "id": "2.1.5",
+                        "level": "Advanced",
+                        "skills": [
+                            "As well as guiding others, I can use a variety of digital technologies in order to interact.",
+                            "As well as guiding others, I can show others the most appropriate digital communication means for a given context."
+                        ]
+                    },{
+                        "id": "2.1.6",
+                        "level": "Advanced",
+                        "skills": [
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can adapt a variety of digital technologies for the most appropriate interaction.",
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can adapt the most appropriate communication means for a given context."
+                        ]
+                    },{
+                        "id": "2.1.7",
+                        "level": "Highly Specialised",
+                        "skills": [
+                            "At highly specialised level, I can create solutions to complex problems with limited definition that are related to interacting through digital technologies and digital communication means.",
+                            "At highly specialised level, I can  integrate my knowledge to contribute to professional practices and knowledge and to guide others in the interaction through digital technologies."
+                        ]
+                    },{
+                        "id": "2.1.8",
+                        "level": "Highly Specialised",
+                        "skills": [
+                            "At the most advanced and specialised level, I can create solutions to solve complex problems with many interacting factors that are related to interacting through digital technologies and digital communication means.",
+                            "At the most advanced and specialised level, I can propose new ideas and processes to the field."
+                        ]
+                    }
+                ]
+            },{
+                "id": "2.2",
+                "name": "Sharing through digital Technologies",
+                "dimensions": [
+                    {
+                        "id": "2.2.1",
+                        "level": "Foundation",
+                        "skills": [
+                            "At basic level and with guidance, I can recognise simple appropriate digital technologies to share data, information and digital content.",
+                            "At basic level and with guidance, I can identify simple referencing and attribution practices."
+                        ]
+                    },{
+                        "id": "2.2.2",
+                        "level": "Foundation",
+                        "skills": [
+                            "At basic level and with autonomy and appropriate guidance where needed, I can recognise simple appropriate digital technologies to share data, information and digital content.",
+                            "At basic level and with autonomy and appropriate guidance where needed, I can identify simple referencing and attribution practices."
+                        ]
+                    },{
+                        "id": "2.2.3",
+                        "level": "Intermediate",
+                        "skills": [
+                            "On my own and solving straightforward problems, I can select well-defined and routine appropriate digital technologies to share data, information and digital content.",
+                            "On my own and solving straightforward problems, I can explain how to act as an intermediary for sharing information and content through well-defined and routine digital technologies.",
+                            "On my own and solving straightforward problems, I can illustrate well-defined and routine referencing and attribution practices."
+                        ]
+                    },{
+                        "id": "2.2.4",
+                        "level": "Intermediate",
+                        "skills": [
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can manipulate appropriate digital technologies to share data, information and digital content.",
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can explain how to act as an intermediary for sharing information and content through digital technologies.",
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can illustrate referencing and attribution practices."
+                        ]
+                    },{
+                        "id": "2.2.5",
+                        "level": "Advanced",
+                        "skills": [
+                            "As well as guiding others, I can share data, information and digital content through a variety of appropriate digital tools.",
+                            "As well as guiding others, I can show others how to act as an intermediary for sharing information and content through digital technologies.",
+                            "As well as guiding others, I can apply a variety of referencing and attribution practices."
+                        ]
+                    },{
+                        "id": "2.2.6",
+                        "level": "Advanced",
+                        "skills": [
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can assess the most appropriate digital technologies to share information and content.",
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can adapt my intermediation role.",
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can vary the use of the more appropriate referencing and attribution practices."
+                        ]
+                    },{
+                        "id": "2.2.7",
+                        "level": "Highly Specialised",
+                        "skills": [
+                            "At highly specialised level, I can create solutions to complex problems with limited definition that are related to sharing through digital technologies.",
+                            "At highly specialised level, I can integrate my knowledge to contribute to professional practices and knowledge and guide others in sharing through digital technologies."
+                        ]
+                    },{
+                        "id": "2.2.8",
+                        "level": "Highly Specialised",
+                        "skills": [
+                            "At the most advanced and specialised level, I can create solutions to solve complex problems with many interacting factors that are related to sharing through digital technologies.",
+                            "At the most advanced and specialised level, I can propose new ideas and processes to the field."
+                        ]
+                    }
+                ]
+            },{
+                "id": "2.3",
+                "name": "Engaging Citizenship through digital Technology",
+                "dimensions": [
+                    {
+                        "id": "2.3.1",
+                        "level": "Foundation",
+                        "skills": [
+                            "At basic level and with guidance, I can identify simple digital services in order to participate in society.",
+                            "At basic level and with guidance, I can recognise simple appropriate digital technologies to empower myself and to participate in society as a citizen."
+                        ]
+                    },{
+                        "id": "2.3.2",
+                        "level": "Foundation",
+                        "skills": [
+                            "At basic level and with autonomy and appropriate guidance where needed, I can identify simple digital services in order to participate in society.",
+                            "At basic level and with autonomy and appropriate guidance where needed, I can recognise simple appropriate digital technologies to empower myself and to participate in society as a citizen."
+                        ]
+                    },{
+                        "id": "2.3.3",
+                        "level": "Intermediate",
+                        "skills": [
+                            "On my own and solving straightforward problems, I can select well-defined and routine digital services in order to participate in society.",
+                            "On my own and solving straightforward problems, I can indicate well-defined and routine appropriate digital technologies to empower myself and to participate in society as a citizen."
+                        ]
+                    },{
+                        "id": "2.3.4",
+                        "level": "Intermediate",
+                        "skills": [
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can select digital services in order to participate in society.",
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can discuss appropriate digital technologies to empower myself and to participate in society as a citizen."
+                        ]
+                    },{
+                        "id": "2.3.5",
+                        "level": "Advanced",
+                        "skills": [
+                            "As well as guiding others, I can propose different digital services to participate in society.",
+                            "As well as guiding others, I can use appropriate digital technologies to empower myself and to participate in society as a citizen."
+                        ]
+                    },{
+                        "id": "2.3.6",
+                        "level": "Advanced",
+                        "skills": [
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can vary the use of the most appropriate digital services in order to participate in society.",
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can vary the use of the most appropriate digital technologies to empower myself and to participate in society as a citizen."
+                        ]
+                    },{
+                        "id": "2.3.7",
+                        "level": "Highly Specialised",
+                        "skills": [
+                            "At highly specialised level, I can create solutions to complex problems with limited definition that are related to engaging in citizenship through digital technologies.",
+                            "At highly specialised level, I can integrate my knowledge to contribute to professional practices and knowledge and guide others in engaging in citizenship through digital technologies."
+                        ]
+                    },{
+                        "id": "2.3.8",
+                        "level": "Highly Specialised",
+                        "skills": [
+                            "At the most advanced and specialised level, I can create solutions to solve complex problems with many interacting factors that are related to engaging in citizenship through digital technologies.",
+                            "At the most advanced and specialised level, I can propose new ideas and processes to the field."
+                        ]
+                    }
+                ]
+            },{
+                "id": "2.4",
+                "name": "Collaborating through digital Technologies",
+                "dimensions": [
+                    {
+                        "id": "2.4.1",
+                        "level": "Foundation",
+                        "skills": [
+                            "At basic level and with guidance, I can choose simple digital tools and technologies for collaborative processes."
+                        ]
+                    },{
+                        "id": "2.4.2",
+                        "level": "Foundation",
+                        "skills": [
+                            "At basic level and with autonomy and appropriate guidance where needed, I can choose simple digital tools and technologies for collaborative processes."
+                        ]
+                    },{
+                        "id": "2.4.3",
+                        "level": "Intermediate",
+                        "skills": [
+                            "On my own and solving straightforward problems, I can select well-defined and routine digital tools and technologies for collaborative processes."
+                        ]
+                    },{
+                        "id": "2.4.4",
+                        "level": "Intermediate",
+                        "skills": [
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can select digital tools and technologies for collaborative processes."
+                        ]
+                    },{
+                        "id": "2.4.5",
+                        "level": "Advanced",
+                        "skills": [
+                            "As well as guiding others, I can propose different digital tools and technologies for collaborative processes."
+                        ]
+                    },{
+                        "id": "2.4.6",
+                        "level": "Advanced",
+                        "skills": [
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can vary the use of the most appropriate digital tools and technologies for collaborative processes.",
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can choose the most appropriate digital tools and technologies for co-constructing and co-creating data, resources and knowledge."
+                        ]
+                    },{
+                        "id": "2.4.7",
+                        "level": "Highly Specialised",
+                        "skills": [
+                            "At highly specialised level, I can vary the use of the most appropriate digital tools and technologies for collaborative processes.",
+                            "At highly specialised level, I can choose the most appropriate digital tools and technologies for co-constructing and co-creating data, resources and knowledge."
+                        ]
+                    },{
+                        "id": "2.4.8",
+                        "level": "Highly Specialised",
+                        "skills": [
+                            "At the most advanced and specialised level, I can create solutions to solve complex problems with many interacting factors that are related to using collaborative processes and co-construction and co-creation of data, resources and knowledge through digital tools and technologies.",
+                            "At the most advanced and specialised level, I can propose new ideas and processes to the field."
+                        ]
+                    }
+                ]
+            },{
+                "id": "2.5",
+                "name": "Netiquette",
+                "dimensions": [
+                    {
+                        "id": "2.5.1",
+                        "level": "Foundation",
+                        "skills": [
+                            "At basic level and with guidance, I can differentiate simple behavioural norms and know-how while using digital technologies and interacting in digital environments.",
+                            "At basic level and with guidance, I can choose simple communication modes and strategies adapted to an audience.",
+                            "At basic level and with guidance, I can differentiate simple cultural and generational diversity aspects to consider in digital environments."
+                        ]
+                    },{
+                        "id": "2.5.2",
+                        "level": "Foundation",
+                        "skills": [
+                            "At basic level and with autonomy and appropriate guidance where needed, I can differentiate simple behavioural norms and know-how while using digital technologies and interacting in digital environments.",
+                            "At basic level and with autonomy and appropriate guidance where needed, I can choose simple communication modes and strategies adapted to an audience.",
+                            "At basic level and with autonomy and appropriate guidance where needed, I can differentiate simple cultural and generational diversity aspects to consider in digital environments."
+                        ]
+                    },{
+                        "id": "2.5.3",
+                        "level": "Intermediate",
+                        "skills": [
+                            "On my own and solving straightforward problems, I can clarify well-defined and routine behavioural norms and know-how while using digital technologies and interacting in digital environments.",
+                            "On my own and solving straightforward problems, I can express well-defined and routine communication strategies adapted to an audience.",
+                            "On my own and solving straightforward problems, I can describe well-defined and routine cultural and generational diversity aspects to consider in digital environments."
+                        ]
+                    },{
+                        "id": "2.5.4",
+                        "level": "Intermediate",
+                        "skills": [
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can discuss behavioural norms and know-how while using digital technologies and interacting in digital environments.",
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can discuss communication strategies adapted to an audience.",
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can discuss cultural and generational diversity aspects to consider in digital environments."
+                        ]
+                    },{
+                        "id": "2.5.5",
+                        "level": "Advanced",
+                        "skills": [
+                            "As well as guiding others, I can apply different behavioural norms and know-how while using digital technologies and interacting in digital environments.",
+                            "As well as guiding others, I can apply different communication strategies in digital environments adapted to an audience.",
+                            "As well as guiding others, I can apply different cultural and generational diversity aspects to consider in digital environments."
+                        ]
+                    },{
+                        "id": "2.5.6",
+                        "level": "Advanced",
+                        "skills": [
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can adapt the most appropriate behavioural norms and know-how while using digital technologies and interacting in digital environments.",
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can adapt the most appropriate communication strategies in digital environments to an audience.",
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can apply different cultural and generational diversity aspects in digital environments."
+                        ]
+                    },{
+                        "id": "2.5.7",
+                        "level": "Highly Specialised",
+                        "skills": [
+                            "At highly specialised level, I can create solutions to complex problems with limited definition that are related to digital etiquettes respectful of different audiences and cultural and generational diversity.",
+                            "At highly specialised level, I can integrate my knowledge to contribute to professional practice and knowledge and guide others in digital etiquette."
+                        ]
+                    },{
+                        "id": "2.5.8",
+                        "level": "Highly Specialised",
+                        "skills": [
+                            "At the most advanced and specialised level, I can create solutions to solve complex problems with many interacting factors that are related to digital etiquettes respectful to different audiences and cultural and generational diversity.",
+                            "At the most advanced and specialised level, I can propose new ideas and processes to the field."
+                        ]
+                    }
+                ]
+            },{
+                "id": "2.6",
+                "name": "Managing digital Identity",
+                "dimensions": [
+                    {
+                        "id": "2.6.1",
+                        "level": "Foundation",
+                        "skills": [
+                            "At basic level and with guidance, I can identify a digital identity.",
+                            "At basic level and with guidance, I can describe simple ways to protect my reputation online.",
+                            "At basic level and with guidance, I can recognise simple data I produce through digital tools, environments or services."
+                        ]
+                    },{
+                        "id": "2.6.2",
+                        "level": "Foundation",
+                        "skills": [
+                            "At basic level and with autonomy and appropriate guidance where needed, I can identify a digital identity.",
+                            "At basic level and with autonomy and appropriate guidance where needed, I can describe simple ways to protect my reputation online.",
+                            "At basic level and with autonomy and appropriate guidance where needed, I can recognise simple data I produce through digital tools, environments or services."
+                        ]
+                    },{
+                        "id": "2.6.3",
+                        "level": "Intermediate",
+                        "skills": [
+                            "On my own and solving straightforward problems, I can discriminate a range of well-defined and routine digital identities.",
+                            "On my own and solving straightforward problems, I can explain well-defined and routine ways to protect my reputation online.",
+                            "On my own and solving straightforward problems, I can describe well-defined data I routinely produce through digital tools, environments or services."
+                        ]
+                    },{
+                        "id": "2.6.4",
+                        "level": "Intermediate",
+                        "skills": [
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can display a variety of specific digital identities.",
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can discuss specific ways to protect my reputation online.",
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can manipulate data I produce through digital tools, environments or services."
+                        ]
+                    },{
+                        "id": "2.6.5",
+                        "level": "Advanced",
+                        "skills": [
+                            "As well as guiding others, I can use a variety of digital identities.",
+                            "As well as guiding others, I can apply different ways to protect my reputation online.",
+                            "As well as guiding others, I can use data I produce through several digital tools environment and services."
+                        ]
+                    },{
+                        "id": "2.6.6",
+                        "level": "Advanced",
+                        "skills": [
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can discriminate multiple digital identities.",
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can explain the more appropriate ways to protect one’s own reputation.",
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can change the data produced through several tools, environments and services."
+                        ]
+                    },{
+                        "id": "2.6.7",
+                        "level": "Highly Specialised",
+                        "skills": [
+                            "At highly specialised level, I can create solutions to complex problems with limited definition that are related to managing digital identities and protection of people’s online reputation.",
+                            "At highly specialised level, I can integrate my knowledge to contribute to professional practice and knowledge and guide others in managing digital identity."
+                        ]
+                    },{
+                        "id": "2.6.8",
+                        "level": "Highly Specialised",
+                        "skills": [
+                            "At the most advanced and specialised level, I can create solutions to solve complex problems with many interacting factors that are related to managing digital identities and protection of people’s online reputation.",
+                            "At the most advanced and specialised level, I can propose new ideas and processes to the field."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },{
+        "id": "3",
+        "name": "Digital Content Creation",
+        "competences": [
+            {
+                "id": "3.1",
+                "name": "Developing digital Content",
+                "dimensions": [
+                    {
+                        "id": "3.1.1",
+                        "level": "Foundation",
+                        "skills": [
+
+                        ]
+                    },{
+                        "id": "3.1.2",
+                        "level": "Foundation",
+                        "skills": [
+
+                        ]
+                    },{
+                        "id": "3.1.3",
+                        "level": "Intermediate",
+                        "skills": [
+
+                        ]
+                    },{
+                        "id": "3.1.4",
+                        "level": "Intermediate",
+                        "skills": [
+
+                        ]
+                    },{
+                        "id": "3.1.5",
+                        "level": "Advanced",
+                        "skills": [
+
+                        ]
+                    },{
+                        "id": "3.1.6",
+                        "level": "Advanced",
+                        "skills": [
+
+                        ]
+                    },{
+                        "id": "3.1.7",
+                        "level": "Highly Specialised",
+                        "skills": [
+
+                        ]
+                    },{
+                        "id": "3.1.8",
+                        "level": "Highly Specialised",
+                        "skills": [
+
+                        ]
+                    }
+                ]
+            },{
+                "id": "3.2",
+                "name": "Interacting and Re-elaborating digital Content",
+                "dimensions": [
+                    {
+                        "id": "3.2.1",
+                        "level": "Foundation",
+                        "skills": [
+
+                        ]
+                    },{
+                        "id": "3.2.2",
+                        "level": "Foundation",
+                        "skills": [
+
+                        ]
+                    },{
+                        "id": "3.2.3",
+                        "level": "Intermediate",
+                        "skills": [
+
+                        ]
+                    },{
+                        "id": "3.2.4",
+                        "level": "Intermediate",
+                        "skills": [
+
+                        ]
+                    },{
+                        "id": "3.2.5",
+                        "level": "Advanced",
+                        "skills": [
+
+                        ]
+                    },{
+                        "id": "3.2.6",
+                        "level": "Advanced",
+                        "skills": [
+
+                        ]
+                    },{
+                        "id": "3.2.7",
+                        "level": "Highly Specialised",
+                        "skills": [
+
+                        ]
+                    },{
+                        "id": "3.2.8",
+                        "level": "Highly Specialised",
+                        "skills": [
+
+                        ]
+                    }
+                ]
+            },{
+                "id": "3.3",
+                "name": "Copyright and Licences",
+                "dimensions": [
+                    {
+                        "id": "3.3.1",
+                        "level": "Foundation",
+                        "skills": [
+
+                        ]
+                    },{
+                        "id": "3.3.2",
+                        "level": "Foundation",
+                        "skills": [
+
+                        ]
+                    },{
+                        "id": "3.3.3",
+                        "level": "Intermediate",
+                        "skills": [
+
+                        ]
+                    },{
+                        "id": "3.3.4",
+                        "level": "Intermediate",
+                        "skills": [
+
+                        ]
+                    },{
+                        "id": "3.3.5",
+                        "level": "Advanced",
+                        "skills": [
+
+                        ]
+                    },{
+                        "id": "3.3.6",
+                        "level": "Advanced",
+                        "skills": [
+
+                        ]
+                    },{
+                        "id": "3.3.7",
+                        "level": "Highly Specialised",
+                        "skills": [
+
+                        ]
+                    },{
+                        "id": "3.3.8",
+                        "level": "Highly Specialised",
+                        "skills": [
+
+                        ]
+                    }
+                ]
+            },{
+                "id": "3.4",
+                "name": "Programming",
+                "dimensions": [
+                    {
+                        "id": "3.4.1",
+                        "level": "Foundation",
+                        "skills": [
+
+                        ]
+                    },{
+                        "id": "3.4.2",
+                        "level": "Foundation",
+                        "skills": [
+
+                        ]
+                    },{
+                        "id": "3.4.3",
+                        "level": "Intermediate",
+                        "skills": [
+
+                        ]
+                    },{
+                        "id": "3.4.4",
+                        "level": "Intermediate",
+                        "skills": [
+
+                        ]
+                    },{
+                        "id": "3.4.5",
+                        "level": "Advanced",
+                        "skills": [
+
+                        ]
+                    },{
+                        "id": "3.4.6",
+                        "level": "Advanced",
+                        "skills": [
+
+                        ]
+                    },{
+                        "id": "3.4.7",
+                        "level": "Highly Specialised",
+                        "skills": [
+
+                        ]
+                    },{
+                        "id": "3.4.8",
+                        "level": "Highly Specialised",
+                        "skills": [
+
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+
+
+
+
+
+]
