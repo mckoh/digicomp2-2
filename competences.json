@@ -721,49 +721,51 @@
                         "id": "3.3.1",
                         "level": "Foundation",
                         "skills": [
-
+                            "At basic level and with guidance, I can identify simple rules of copyright and licenses that apply to data, digital information and content."
                         ]
                     },{
                         "id": "3.3.2",
                         "level": "Foundation",
                         "skills": [
-
+                            "At basic level and with autonomy and appropriate guidance where needed, I can identify simple rules of copyright and licenses that apply to data, digital information and content."
                         ]
                     },{
                         "id": "3.3.3",
                         "level": "Intermediate",
                         "skills": [
-
+                            "On my own and solving straightforward problems, I can indicate well-defined and routine rules of copyright and licenses that apply to data, digital information and content."
                         ]
                     },{
                         "id": "3.3.4",
                         "level": "Intermediate",
                         "skills": [
-
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can discuss rules of copyright and licenses that apply to digital information and content."
                         ]
                     },{
                         "id": "3.3.5",
                         "level": "Advanced",
                         "skills": [
-
+                            "As well as guiding others, I can apply different rules of copyright and licenses that apply to data, digital information and content."
                         ]
                     },{
                         "id": "3.3.6",
                         "level": "Advanced",
                         "skills": [
-
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can choose the most appropriate rules that apply copyright and licences to data, digital information and content."
                         ]
                     },{
                         "id": "3.3.7",
                         "level": "Highly Specialised",
                         "skills": [
-
+                            "At highly specialised level, I can create solutions to complex problems with limited definition that are related to applying copyright and licenses to data, digital information and content.",
+                            "At highly specialised level, I can integrate my knowledge to contribute to professional practice and knowledge and guide others in applying copyright and licenses."
                         ]
                     },{
                         "id": "3.3.8",
                         "level": "Highly Specialised",
                         "skills": [
-
+                            "At the most advanced and specialised level, I can create solutions to solve complex problems with many interacting factors that are related to applying copyright and licenses to data, digital information and content.",
+                            "At the most advanced and specialised level, I can propose new ideas and processes to the field."
                         ]
                     }
                 ]
