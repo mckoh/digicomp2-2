@@ -603,49 +603,57 @@
                         "id": "3.1.1",
                         "level": "Foundation",
                         "skills": [
-
+                            "At basic level and with guidance, I can identify ways to create and edit simple content in simple formats.",
+                            "At basic level and with guidance, I can choose how I express myself through the creation of simple digital means."
                         ]
                     },{
                         "id": "3.1.2",
                         "level": "Foundation",
                         "skills": [
-
+                            "At basic level and with autonomy and appropriate guidance where needed, I can identify ways to create and edit simple content in simple formats.",
+                            "At basic level and with autonomy and appropriate guidance where needed, I can choose how I express myself through the creation of simple digital means."
                         ]
                     },{
                         "id": "3.1.3",
                         "level": "Intermediate",
                         "skills": [
-
+                            "On my own and solving straightforward problems, I can indicate ways to create and edit well-defined and routine content in well-defined and routine formats.",
+                            "On my own and solving straightforward problems, I can express myself through the creation of well-defined and routine digital means."
                         ]
                     },{
                         "id": "3.1.4",
                         "level": "Intermediate",
                         "skills": [
-
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can indicate ways to create and edit content in different formats.",
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can express myself through the creation of digital means."
                         ]
                     },{
                         "id": "3.1.5",
                         "level": "Advanced",
                         "skills": [
-
+                            "As well as guiding others, I can apply ways to create and edit content in different formats.",
+                            "As well as guiding others, I can show ways to express myself through the creation of digital means."
                         ]
                     },{
                         "id": "3.1.6",
                         "level": "Advanced",
                         "skills": [
-
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can change content using the most appropriate formats.",
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can adapt the expression of myself through the creation of the most appropriate digital means."
                         ]
                     },{
                         "id": "3.1.7",
                         "level": "Highly Specialised",
                         "skills": [
-
+                            "At highly specialised level, I can create solutions to complex problems with limited definition that are related to content creation and edition in different formats, and self-expression through digital means.",
+                            "At highly specialised level, I can integrate my knowledge to contribute to professional practice and knowledge and guide others in developing content."
                         ]
                     },{
                         "id": "3.1.8",
                         "level": "Highly Specialised",
                         "skills": [
-
+                            "At the most advanced and specialised level, I can create solutions to solve complex problems with many interacting factors that are related to content creation and edition in different formats, and self-expression through digital means.",
+                            "At the most advanced and specialised level, I can propose new ideas and processes to the field."
                         ]
                     }
                 ]
