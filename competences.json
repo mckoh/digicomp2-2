@@ -1111,49 +1111,57 @@
                         "id": "5.1.1",
                         "level": "Foundation",
                         "skills": [
-
+                            "At basic level and with guidance, I can identify simple technical problems when operating devices and using digital environments.",
+                            "At basic level and with guidance, I can identify simple solutions to solve them."
                         ]
                     },{
                         "id": "5.1.2",
                         "level": "Foundation",
                         "skills": [
-
+                            "At basic level and with autonomy and appropriate guidance where needed, I can identify simple technical problems when operating devices and using digital environments.",
+                            "At basic level and with autonomy and appropriate guidance where needed, I can identify simple solutions to solve them."
                         ]
                     },{
                         "id": "5.1.3",
                         "level": "Intermediate",
                         "skills": [
-
+                            "On my own and solving straightforward problems, I can indicate well-defined and routine technical problems when operating devices and using digital environments.",
+                            "On my own and solving straightforward problems, I can select well-defined and routine solutions to them."
                         ]
                     },{
                         "id": "5.1.4",
                         "level": "Intermediate",
                         "skills": [
-
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can differentiate technical problems when operating devices and using digital environments.",
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can select solutions to them."
                         ]
                     },{
                         "id": "5.1.5",
                         "level": "Advanced",
                         "skills": [
-
+                            "As well as guiding others, I can assess technical problems when using digital environments and operating digital devices.",
+                            "As well as guiding others, I can apply different solutions to them."
                         ]
                     },{
                         "id": "5.1.6",
                         "level": "Advanced",
                         "skills": [
-
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can appraise technical problems when operating devices or working with digital environments.",
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can resolve technical problems with the most appropriate solution."
                         ]
                     },{
                         "id": "5.1.7",
                         "level": "Highly Specialised",
                         "skills": [
-
+                            "At highly specialised level, I can create solutions to complex problems with limited definition that are related to technical problems when operating devices and using digital environments.",
+                            "At highly specialised level, I can integrate my knowledge to contribute to professional practice and knowledge and to guide others in solving technical problems."
                         ]
                     },{
                         "id": "5.1.8",
                         "level": "Highly Specialised",
                         "skills": [
-
+                            "At the most advanced and specialised level, I can create solutions to solve complex problems with many interacting factors that are related to technical problems when operating devices and using digital environments.",
+                            "At the most advanced and specialised level, I can propose new ideas and processes to the field."
                         ]
                     }
                 ]
