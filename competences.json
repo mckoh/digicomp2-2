@@ -1173,49 +1173,63 @@
                         "id": "5.2.1",
                         "level": "Foundation",
                         "skills": [
-
+                            "At basic level and with guidance, I can identify needs.",
+                            "At basic level and with guidance, I can recognise simple digital tools and possible technological responses to solve those needs.",
+                            "At basic level and with guidance, I can choose simple ways to adjust and customise digital environments to personal needs."
                         ]
                     },{
                         "id": "5.2.2",
                         "level": "Foundation",
                         "skills": [
-
+                            "At basic level and with autonomy and appropriate guidance where needed, I can identify needs.",
+                            "At basic level and with autonomy and appropriate guidance where needed, I can recognise simple digital tools and possible technological responses to solve those needs.",
+                            "At basic level and with autonomy and appropriate guidance where needed, I can choose simple ways to adjust and customise digital environments to personal needs."
                         ]
                     },{
                         "id": "5.2.3",
                         "level": "Intermediate",
                         "skills": [
-
+                            "On my own and solving straightforward problems, I can indicate well-defined and routine needs.",
+                            "On my own and solving straightforward problems, I can select well-define and routine digital tools and possible technological responses to solve those needs.",
+                            "On my own and solving straightforward problems, I can select well-defined and routine ways to adjust and customise digital environments to personal needs."
                         ]
                     },{
                         "id": "5.2.4",
                         "level": "Intermediate",
                         "skills": [
-
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can explain needs.",
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can select digital tools and possible technological responses to solve those needs.",
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can select ways to adjust and customise digital environments to personal needs."
                         ]
                     },{
                         "id": "5.2.5",
                         "level": "Advanced",
                         "skills": [
-
+                            "As well as guiding others, I can assess needs.",
+                            "As well as guiding others, I can apply different digital tools and possible technological responses to solve those needs.",
+                            "As well as guiding others, I can use different ways to adjust and customise digital environments to personal needs."
                         ]
                     },{
                         "id": "5.2.6",
                         "level": "Advanced",
                         "skills": [
-
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can assess needs.",
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can choose the most appropriate digital tools and possible technological responses to solve those needs.",
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can decide the most appropriate ways to adjust and customise digital environments to personal needs."
                         ]
                     },{
                         "id": "5.2.7",
                         "level": "Highly Specialised",
                         "skills": [
-
+                            "At highly specialised level, I can create solutions to complex problems with limited definition using digital tools and possible technological responses, and to adapt and customise digital environments to personal needs.",
+                            "At highly specialised level, I can integrate my knowledge to contribute to professional practice and knowledge and guide others in identifying needs and technological responses."
                         ]
                     },{
                         "id": "5.2.8",
                         "level": "Highly Specialised",
                         "skills": [
-
+                            "At the most advanced and specialised level, I can create solutions to solve complex problems with many interacting factors using digital tools and possible technological responses, and to adapt and customise digital environments to personal needs.",
+                            "At the most advanced and specialised level, I can I can propose new ideas and processes to the field."
                         ]
                     }
                 ]
