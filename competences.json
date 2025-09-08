@@ -1005,16 +1005,16 @@
                         "id": "4.3.4",
                         "level": "Intermediate",
                         "skills": [
-                            "Independently, accordingto my own needs, and solving well-defined and non-routine problems, I can explain ways to how to avoid threats to my physical and psychological health related with the use of technology.",
-                            "Independently, accordingto my own needs, and solving well-defined and non-routine problems, I can select ways to protect self and others from dangers in digital environments.",
-                            "Independently, accordingto my own needs, and solving well-defined and non-routine problems, I can discuss on digital technologies for social well-being and inclusion."
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can explain ways to how to avoid threats to my physical and psychological health related with the use of technology.",
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can select ways to protect self and others from dangers in digital environments.",
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can discuss on digital technologies for social well-being and inclusion."
                         ]
                     },{
                         "id": "4.3.5",
                         "level": "Advanced",
                         "skills": [
-                            "As well as guiding others, I can show different ways to avoid health -risks and threats to physical and psychological well-being while using digital technologies.",
-                            "As well as guiding others, I can apply different ways to protect myself and others from dangers in digital environmen• show different digital technologies for social well-being and social inclusion.",
+                            "As well as guiding others, I can show different ways to avoid health-risks and threats to physical and psychological well-being while using digital technologies.",
+                            "As well as guiding others, I can apply different ways to protect myself and others from dangers in digital environments.",
                             "As well as guiding others, I can show different digital technologies for social well-being and social inclusion."
                         ]
                     },{
@@ -1049,49 +1049,51 @@
                         "id": "4.4.1",
                         "level": "Foundation",
                         "skills": [
-
+                            "At basic level and with guidance, I can recognise simple environmental impacts of digital technologies and their use."
                         ]
                     },{
                         "id": "4.4.2",
                         "level": "Foundation",
                         "skills": [
-
+                            "At basic level and with autonomy and appropriate guidance where needed, I can recognise simple environmental impacts of digital technologies and their use."
                         ]
                     },{
                         "id": "4.4.3",
                         "level": "Intermediate",
                         "skills": [
-
+                            "On my own and solving straightforward problems, I can indicate well-defined and routine environmental impacts of digital technologies and their use."
                         ]
                     },{
                         "id": "4.4.4",
                         "level": "Intermediate",
                         "skills": [
-
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can discuss ways to protect the environment from the impact of digital technologies and their use."
                         ]
                     },{
                         "id": "4.4.5",
                         "level": "Advanced",
                         "skills": [
-
+                            "As well as guiding others, I can show different ways to protect the environment from the impact of digital technologies and their use."
                         ]
                     },{
                         "id": "4.4.6",
                         "level": "Advanced",
                         "skills": [
-
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can choose the most appropriate solutions to protect the environment from the impact of digital technologies and their use."
                         ]
                     },{
                         "id": "4.4.7",
                         "level": "Highly Specialised",
                         "skills": [
-
+                            "At highly specialised level, I can create solutions to complex problems with limited definition that are related to protecting the environment from the impact of digital technologies and their use.",
+                            "At highly specialised level, I can integrate my knowledge to contribute to professional practice and knowledge and guide others in protecting the environment."
                         ]
                     },{
                         "id": "4.4.8",
                         "level": "Highly Specialised",
                         "skills": [
-
+                            "At the most advanced and specialised level, I can create solutions to solve complex problems with many interacting factors that are related to protecting the environment from the impact of digital technologies and their use.",
+                            "At the most advanced and specialised level, I can propose new ideas and processes to the field."
                         ]
                     }
                 ]
