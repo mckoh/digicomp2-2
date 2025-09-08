@@ -884,10 +884,10 @@
                         "id": "4.1.6",
                         "level": "Advanced",
                         "skills": [
-                            "At advanced level, according to my own needs and those of others, and in complexcontexts, I can choose the most appropriate protection for devices and digital content.",
-                            "At advanced level, according to my own needs and those of others, and in complexcontexts, I can discriminate risks and threats in digital environments.",
-                            "At advanced level, according to my own needs and those of others, and in complexcontexts, I can choose the most appropriate safety and security measures.",
-                            "At advanced level, according to my own needs and those of others, and in complexcontexts, I can assess the most appropriate ways to have due regard to reliability and privacy."
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can choose the most appropriate protection for devices and digital content.",
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can discriminate risks and threats in digital environments.",
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can choose the most appropriate safety and security measures.",
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can assess the most appropriate ways to have due regard to reliability and privacy."
                         ]
                     },{
                         "id": "4.1.7",
@@ -913,49 +913,63 @@
                         "id": "4.2.1",
                         "level": "Foundation",
                         "skills": [
-
+                            "At basic level and with guidance, I can select simple ways to protect my personal data and privacy in digital environments.",
+                            "At basic level and with guidance, I can identify simple ways to use and share personally identifiable information while protecting myself and others from damages.",
+                            "At basic level and with guidance, I can identify simple privacy policy statements of how personal data is used in digital services."
                         ]
                     },{
                         "id": "4.2.2",
                         "level": "Foundation",
                         "skills": [
-
+                            "At basic level and with autonomy and appropriate guidance where needed, I can select simple ways to protect my personal data and privacy in digital environments.",
+                            "At basic level and with autonomy and appropriate guidance where needed, I can identify simple ways to use and share personally identifiable information while protecting myself and others from damages.",
+                            "At basic level and with autonomy and appropriate guidance where needed, I can identify simple privacy policy statements of how personal data is used in digital services."
                         ]
                     },{
                         "id": "4.2.3",
                         "level": "Intermediate",
                         "skills": [
-
+                            "On my own and solving straightforward problems, I can explain well-defined and routine ways to protect my personal data and privacy in digital environments.",
+                            "On my own and solving straightforward problems, I can explain well-defined and routine ways to use and share personally identifiable information while protecting myself and others from damages.",
+                            "On my own and solving straightforward problems, I can indicate well-defined and routine privacy policy statements of how personal data is used in digital services."
                         ]
                     },{
                         "id": "4.2.4",
                         "level": "Intermediate",
                         "skills": [
-
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can discuss ways to protect my personal data and privacy in digital environments.",
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can discuss ways to use and share personally identifiable information while protecting myself and others from damages.",
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can indicate privacy policy statements of how personal data is used in digital services."
                         ]
                     },{
                         "id": "4.2.5",
                         "level": "Advanced",
                         "skills": [
-
+                            "As well as guiding others, I can apply different ways to protect my personal data and privacy in digital environments.",
+                            "As well as guiding others, I can apply different specific ways to share my data while protecting myself and others from dangers.",
+                            "As well as guiding others, I can explain privacy policy statements of how personal data is used in digital services."
                         ]
                     },{
                         "id": "4.2.6",
                         "level": "Advanced",
                         "skills": [
-
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can choose the more appropriate ways to protect personal data and privacy in digital environments.",
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can evaluate the most appropriate ways of using and sharing personally identifiable information while protecting myself and others from damages.",
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can evaluate the appropriateness of privacy policy statements on how personal data are used."
                         ]
                     },{
                         "id": "4.2.7",
                         "level": "Highly Specialised",
                         "skills": [
-
+                            "At highly specialised level, I can create solutions to complex problems with limited definition that are related to protecting personal data and privacy in digital environments, using and sharing personally identifiable information protecting self and others from dangers, and privacy policies to use my personal data.",
+                            "At highly specialised level, I can integrate my knowledge to contribute to professional practice and knowledge and guide others in protecting personal data and privacy."
                         ]
                     },{
                         "id": "4.2.8",
                         "level": "Highly Specialised",
                         "skills": [
-
+                            "At the most advanced and specialised level, I can create solutions to solve complex problems with many interacting factors that are related to protecting personal data and privacy in digital environments, using and sharing personally identifiable information protecting self and others from dangers, and privacy policies to use my personal data.",
+                            "At the most advanced and specialised level, I can propose new ideas and processes to the field."
                         ]
                     }
                 ]
