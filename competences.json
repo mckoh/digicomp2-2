@@ -839,49 +839,69 @@
                         "id": "4.1.1",
                         "level": "Foundation",
                         "skills": [
-
+                            "At basic level and with guidance, I can identify simple ways to protect my devices and digital content.",
+                            "At basic level and with guidance, I can differentiate simple risks and threats in digital environments.",
+                            "At basic level and with guidance, I can choose simple safety and security measures.",
+                            "At basic level and with guidance, I can identify simple ways to have due regard to reliability and privacy."
                         ]
                     },{
                         "id": "4.1.2",
                         "level": "Foundation",
                         "skills": [
-
+                            "At basic level and with autonomy and appropriate guidance where needed, I can identify simple ways to protect my devices and digital content.",
+                            "At basic level and with autonomy and appropriate guidance where needed, I can differentiate simple risks and threats in digital environments.",
+                            "At basic level and with autonomy and appropriate guidance where needed, I can follow simple safety and security measures.",
+                            "At basic level and with autonomy and appropriate guidance where needed, I can identify simple ways to have due regard to reliability and privacy."
                         ]
                     },{
                         "id": "4.1.3",
                         "level": "Intermediate",
                         "skills": [
-
+                            "On my own and solving straightforward problems, I can indicate well-defined and routine ways to protect my devices and digital content.",
+                            "On my own and solving straightforward problems, I can differentiate well-defined and routine risks and threats in digital environments.",
+                            "On my own and solving straightforward problems, I can select well-defined and routine safety and security measures.",
+                            "On my own and solving straightforward problems, I can indicate well-defined and routine ways to have due regard to reliability and privacy."
                         ]
                     },{
                         "id": "4.1.4",
                         "level": "Intermediate",
                         "skills": [
-
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can organise ways to protect my devices and digital content.",
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can differentiate risks and threats in digital environments.",
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can select safety and security measures.",
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can explain ways to have due regard to reliability and privacy."
                         ]
                     },{
                         "id": "4.1.5",
                         "level": "Advanced",
                         "skills": [
-
+                            "As well as guiding others, I can apply different ways to protect devices and digital content.",
+                            "As well as guiding others, I can differentiate a variety of risks and threats in digital environments.",
+                            "As well as guiding others, I can apply safety and security measures.",
+                            "As well as guiding others, I can employ different ways to have due regard to reliability and privacy."
                         ]
                     },{
                         "id": "4.1.6",
                         "level": "Advanced",
                         "skills": [
-
+                            "At advanced level, according to my own needs and those of others, and in complexcontexts, I can choose the most appropriate protection for devices and digital content.",
+                            "At advanced level, according to my own needs and those of others, and in complexcontexts, I can discriminate risks and threats in digital environments.",
+                            "At advanced level, according to my own needs and those of others, and in complexcontexts, I can choose the most appropriate safety and security measures.",
+                            "At advanced level, according to my own needs and those of others, and in complexcontexts, I can assess the most appropriate ways to have due regard to reliability and privacy."
                         ]
                     },{
                         "id": "4.1.7",
                         "level": "Highly Specialised",
                         "skills": [
-
+                            "At highly specialised level, I can create solutions to complex problems with limited definition that are related to protecting devices and digital content, managing risks and threats, applying safety and security measures, and reliability and privacy in digital environments.",
+                            "At highly specialised level, I can integrate my knowledge to contribute to professional practice and knowledge and guide others in protecting devices."
                         ]
                     },{
                         "id": "4.1.8",
                         "level": "Highly Specialised",
                         "skills": [
-
+                            "At the most advanced and specialised level, I can create solutions to solve complex problems with many interacting factors that are related to protecting devices and digital content, managing risks and threats, applying safety and security measures, and reliability and privacy in digital environments.",
+                            "At the most advanced and specialised level, I can propose new ideas and processes to the field."
                         ]
                     }
                 ]
