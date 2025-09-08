@@ -665,49 +665,51 @@
                         "id": "3.2.1",
                         "level": "Foundation",
                         "skills": [
-
+                            "At basic level and with guidance, I can select ways to modify, refine, improve and integrate simple items of new content and information to create new and original ones.",
                         ]
                     },{
                         "id": "3.2.2",
                         "level": "Foundation",
                         "skills": [
-
+                            "At basic level and with autonomy and appropriate guidance where needed, I can select ways to modify, refine, improve and integrate simple items of new content and information to create new and original ones."
                         ]
                     },{
                         "id": "3.2.3",
                         "level": "Intermediate",
                         "skills": [
-
+                            "On my own and solving straightforward problems, I can explain ways to modify, refine, improve and integrate well-defined items of new content and information to create new and original ones."
                         ]
                     },{
                         "id": "3.2.4",
                         "level": "Intermediate",
                         "skills": [
-
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can discuss ways to modify, refine, improve and integrate new content and information to create new and original ones."
                         ]
                     },{
                         "id": "3.2.5",
                         "level": "Advanced",
                         "skills": [
-
+                            "As well as guiding others, I can operate with new different items of content and information, modifying, refining, improving and integrating them in order to create new and original ones."
                         ]
                     },{
                         "id": "3.2.6",
                         "level": "Advanced",
                         "skills": [
-
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can assess the most appropriate ways to modify, refine, improve and integrate specific new items of content and information to create new and original ones."
                         ]
                     },{
                         "id": "3.2.7",
                         "level": "Highly Specialised",
                         "skills": [
-
+                            "At highly specialised level, I can create solutions to complex problems with limited definition that are related to modifying, refining, improving and integrating new content and information into existing knowledge to create new and original ones.",
+                            "At highly specialised level, I can integrate my knowledge to contribute to professional practice and knowledge and guide others in integrating and re-elaborating content."
                         ]
                     },{
                         "id": "3.2.8",
                         "level": "Highly Specialised",
                         "skills": [
-
+                            "At the most advanced and specialised level, I can create solutions to solve complex problems with many interacting factors that are related to modifying, refining, improving and integrating new content and information into existing knowledge to create new and original ones.",
+                            "At the most advanced and specialised level, I can propose new ideas and processes to the field."
                         ]
                     }
                 ]
