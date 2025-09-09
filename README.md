@@ -1,6 +1,6 @@
 # The Digital Competence Framework for Citizens
 
-This repository contains the DigiComp2.2 Competence Framework according to Vuorikari et al. (2022). The competence descriptions as well as the competence areas and dimensions have been extracted from the original publication and have been put into a json structure (see Overview below).
+This repository contains the DigiComp2.2 Competence Framework according to [Vuorikari et al. (2022)](https://publications.jrc.ec.europa.eu/repository/handle/JRC128415). The competence descriptions as well as the competence areas and dimensions have been extracted from the original publication and have been put into a json structure (see Overview below).
 
 ```text
 1️⃣ Competence Area
