@@ -1241,49 +1241,57 @@
                         "id": "5.3.1",
                         "level": "Foundation",
                         "skills": [
-
+                            "At basic level and with guidance, I can identify simple digital tools and technologies that can be used to create knowledge and to innovate processes and products.",
+                            "At basic level and with guidance, I can show interest individually and collectively in simple cognitive processing to understand and resolve simple conceptual problems and problem situations in digital environments."
                         ]
                     },{
                         "id": "5.3.2",
                         "level": "Foundation",
                         "skills": [
-
+                            "At basic level and with autonomy and appropriate guidance where needed, I can identify simple digital tools and technologies that can be used to create knowledge and to innovate processes and products.",
+                            "At basic level and with autonomy and appropriate guidance where needed, I can follow individually and collectively simple cognitive processing to understand and resolve simple conceptual problems and problem situations in digital environments."
                         ]
                     },{
                         "id": "5.3.3",
                         "level": "Intermediate",
                         "skills": [
-
+                            "On my own and solving straightforward problems, I can select digital tools and technologies that can be used to create well-defined knowledge and well-defined innovative processes and products.",
+                            "On my own and solving straightforward problems, I can engage individually and collectively in some cognitive processing to understand and resolve well-defined and routine conceptual problems and problem situations in digital environments."
                         ]
                     },{
                         "id": "5.3.4",
                         "level": "Intermediate",
                         "skills": [
-
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can differentiate digital tools and technologies that can be used to create knowledge and to innovate processes and products.",
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can engage individually and collectively in cognitive processing to understand and resolve conceptual problems and problem situations in digital environments."
                         ]
                     },{
                         "id": "5.3.5",
                         "level": "Advanced",
                         "skills": [
-
+                            "As well as guiding others, I can apply different digital tools and technologies to create knowledge and innovative processes and products.",
+                            "As well as guiding others, I can apply individually and collectively cognitive processing to resolve different conceptual problems and problem situations in digital environments."
                         ]
                     },{
                         "id": "5.3.6",
                         "level": "Advanced",
                         "skills": [
-
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can adapt the most appropriate digital tools and technologies to create knowledge and to innovate processes and products.",
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can resolve individually and collectively conceptual problems and problem situations in digital environments."
                         ]
                     },{
                         "id": "5.3.7",
                         "level": "Highly Specialised",
                         "skills": [
-
+                            "At highly specialised level, I can create solutions to complex problems with limited definition using digital tools and technologies.",
+                            "At highly specialised level, I can integrate my knowledge to contribute to professional practice and knowledge and guide others in creatively using digital technologies."
                         ]
                     },{
                         "id": "5.3.8",
                         "level": "Highly Specialised",
                         "skills": [
-
+                            "At the most advanced and specialised level, I can create solutions to solve complex problems with many interacting factors using digital tools and technologies.",
+                            "At the most advanced and specialised level, I can propose new ideas and processes to the field."
                         ]
                     }
                 ]
