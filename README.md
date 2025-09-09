@@ -1,6 +1,25 @@
 # The Digital Competence Framework for Citizens
 
-This repository contains the DigiComp2.2 Competence Framework accoring to Vuorikari et al. (2022).
+This repository contains the DigiComp2.2 Competence Framework according to Vuorikari et al. (2022). The competence descriptions as well as the competence areas and dimensions have been extracted from the original publication and have been put into a json structure (see Overview below).
+
+```text
+1️⃣ Competence Area
+├── 🅰️ Dimension
+│   ├── 🧰 Kompetence
+│   ├── 🧰 Kompetence
+│   └── ...
+├── 🅱️ Dimension
+│   ├── 🧰 Kompetence
+│   ├── 🧰 Kompetence
+│   └── ...
+└── ...
+```
+
+The competence Map can be found in the [competences.json](competences.json) file in this repository.
+
+## License
+
+This repository is provided under the [Creative Commons Attribution 4.0](LICENSE) license, which allows anyone to use, remix, build upon, and even commercially distribute its content, provided appropriate attribution to the original creator.
 
 ## References
 
