@@ -1303,49 +1303,60 @@
                         "id": "5.4.1",
                         "level": "Foundation",
                         "skills": [
-
+                            "At basic level and with guidance, I can recognise where my own digital competence needs to be improved or updated.",
+                            "At basic level and with guidance, I can identify where to seek opportunities for self-developments and to keep up-to-date with the digital evolution."
                         ]
                     },{
                         "id": "5.4.2",
                         "level": "Foundation",
                         "skills": [
-
+                            "At basic level and with autonomy and appropriate guidance where needed, I can recognise where my own digital competence needs to be improved or updated.",
+                            "At basic level and with autonomy and appropriate guidance where needed, I can identify where to seek opportunities for self-developments and to keep up-to-date with the digital evolution."
                         ]
                     },{
                         "id": "5.4.3",
                         "level": "Intermediate",
                         "skills": [
-
+                            "On my own and solving straightforward problems, I can explain where my digital competence needs to be improved or updated.",
+                            "On my own and solving straightforward problems, I can indicate where to seek well-defined opportunities for self-developments and to keep up-to-date with the digital evolution."
                         ]
                     },{
                         "id": "5.4.4",
                         "level": "Intermediate",
                         "skills": [
-
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can discuss on where my digital competence needs to be improved or updated.",
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can indicate how to support others to develop their digital competence.",
+                            "Independently, according to my own needs, and solving well-defined and non-routine problems, I can indicate where to seek opportunities for self-developments and to keep up-to-date with the digital evolution."
                         ]
                     },{
                         "id": "5.4.5",
                         "level": "Advanced",
                         "skills": [
-
+                            "As well as guiding others, I can demonstrate where my own digital competence needs to be improved or updated.",
+                            "As well as guiding others, I can illustrate different ways to support others in the development of their digital competence.",
+                            "As well as guiding others, I can propose different opportunities found for self-development and to keep up-to-date with the digital evolution."
                         ]
                     },{
                         "id": "5.4.6",
                         "level": "Advanced",
                         "skills": [
-
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can decide which are the most appropriate ways to improve or update one’s own digital competence needs.",
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can assess the development of others’ digital competence.",
+                            "At advanced level, according to my own needs and those of others, and in complex contexts, I can choose the most appropriate opportunities for self-development and to keep up-to date with new developments."
                         ]
                     },{
                         "id": "5.4.7",
                         "level": "Highly Specialised",
                         "skills": [
-
+                            "At highly specialised level, I can create solutions to complex problems with limited definition that are related to improving digital competence, and to find opportunities for self-development and to keep up-to-date with new developments.",
+                            "At highly specialised level, I can integrate my knowledge to contribute to professional practice and knowledge and to guide others in identifying digital competence gaps."
                         ]
                     },{
                         "id": "5.4.8",
                         "level": "Highly Specialised",
                         "skills": [
-
+                            "At the most advanced and specialised level, I can create solutions to solve complex problems with many interacting factors that are related to improving digital competence, and to find opportunities for self-development and to keep up-to-date with the digital evolution.",
+                            "At the most advanced and specialised level, I can propose new ideas and processes to the field."
                         ]
                     }
                 ]
